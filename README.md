@@ -1,2 +1,1 @@
-# blog
-learning by writing
+# learning by doing
