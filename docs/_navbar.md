@@ -1,8 +1,7 @@
 * [Work](/)
     * [BlockChain]()
-* [Learning](/zh-cn/)
+* [Learning]()
     * [Reading]()
-    <!-- * [Writing]() -->
     * [Time Management]()
     * [English]()
     * [Tools]()
