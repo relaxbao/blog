@@ -1,5 +1,7 @@
-<!-- * [Work](/)
-    * [BlockChain]()
+<!-- _navbar.md 配置导航栏-->
+
+* [Work](/)
+
 * [Learning]()
     * [Reading]()
     * [Time Management]()
@@ -7,4 +9,4 @@
     * [Tools]()
 * [Life]()
 * [Meaning]()
-    * [Draw]() -->
+    * [Draw]()

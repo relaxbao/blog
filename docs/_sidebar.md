@@ -1,13 +1,5 @@
-  <a href="#">
-    <i class="fa fa-th fa-3x" title="主页"></i>
-  </a>
-  <a href="https://github.com/relaxbao/blog">
-    <i class="fa fa-github fa-3x" title="GitHub"></i>
-  </a>
-  <a href="#">
-    <i class="fa fa-align-right fa-3x" title="平均分布"></i>
-  </a>
-  <a href="#">
-    <i class="fa fa-align-justify fa-3x" title="平均分布"></i>
-  </a>
+<!-- docs/_sidebar.md  用自定义的，不需要配置--> 
+"![logo](./imgs/icon.jpg ':size=15%')
+* [首页](zh-cn/) 
+* [指南](zh-cn/guide)
 
