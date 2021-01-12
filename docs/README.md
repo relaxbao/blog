@@ -3,7 +3,7 @@
 > Life is like riding a bicycle, To keep balance, you must keep moving.
 
 ## Study
-[搭建博客](./1.md), 图床，英语，[Anki](./anki/)，印象笔记，xmind，OKR
+[搭建博客](./1.md), 图床，英语，[Anki](./anki/README.md)，印象笔记，xmind，OKR
 
 ## Reading
 读书记录，书单
